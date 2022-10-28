@@ -4,6 +4,8 @@
 
 ## Red Team
 
+[Cyber Security Control Validation Platform](https://github.com/anil-yelken/cyber-security-control-validation-platform)
+
 [Vulnerable Flask App](https://github.com/anil-yelken/Vulnerable-Flask-App)
 
 [Vulnerable SOAP Service](https://github.com/anil-yelken/Vulnerable-Soap-Service)
@@ -17,6 +19,10 @@
 [Automatic Exploit](https://github.com/anil-yelken/automatic-exploit)
 
 ## Purple Team
+
+[SOAR](https://github.com/anil-yelken/SOAR)
+
+[Cyber Security Control Validation Platform](https://github.com/anil-yelken/cyber-security-control-validation-platform)
 
 [Pywirt - Python Windows Incident Response Toolkit](https://github.com/anil-yelken/pywirt)
 
