@@ -4,6 +4,8 @@
 
 ## Red Team
 
+[OWASP Vulnerable Flask App](https://owasp.org/www-project-vulnerable-flask-app/)
+
 [Cyber Security Control Validation Platform](https://github.com/anil-yelken/cyber-security-control-validation-platform)
 
 [Vulnerable Flask App](https://github.com/anil-yelken/Vulnerable-Flask-App)
