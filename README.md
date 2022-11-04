@@ -4,6 +4,8 @@
 
 ## Red Team
 
+[Python Source Code Analysis](https://github.com/anil-yelken/python-source-code-analysis)
+
 [PHP Source Code Analysis](https://github.com/anil-yelken/php-source-code-analysis)
 
 [OWASP Vulnerable Flask App](https://owasp.org/www-project-vulnerable-flask-app/)
