@@ -1,4 +1,4 @@
-# Cyber Security Tools
+# Cyber Security
 
 [Python For Hackers](https://github.com/anil-yelken/siber-guvenlik-icin-python)
 
@@ -47,3 +47,8 @@
 [Splunk Rules](https://github.com/anil-yelken/splunk-rules)
 
 [Anomali STAXX Get IOC](https://github.com/anil-yelken/anomali-staxx-get-ioc)
+
+## Presentation
+
+[GDG Düzce 17.11.2022](https://github.com/anil-yelken/GDG-Duzce-Uygulamalarla-Siber-Guvenlik)
+
