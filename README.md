@@ -30,6 +30,8 @@
 
 ## Purple Team
 
+[Malware Analysis](https://github.com/anil-yelken/python-malware-analysis)
+
 [APT Simulator](https://github.com/anil-yelken/APT-Simulator)
 
 [SOAR](https://github.com/anil-yelken/SOAR)
